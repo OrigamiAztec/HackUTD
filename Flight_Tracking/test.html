@@ -1,0 +1,66 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>Flights</title>
+  <style>
+    html, body, #viewDiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+  
+  <link rel="stylesheet" href="https://js.arcgis.com/4.13/esri/css/main.css">
+  <script src="https://js.arcgis.com/4.13/"></script>
+  
+  <script>  
+    require([
+      "esri/Map",
+      "esri/views/MapView",
+      "esri/layers/FeatureLayer",
+    ], function(Map, MapView, FeatureLayer) {
+
+      var map = new Map({
+        basemap: "hybrid"
+      });
+
+      var view = new MapView({
+        container: "viewDiv",
+        map: map,
+        center: [-98.80500,34.02700],
+        zoom: 5
+      });
+      
+      // 2008 flights
+      var flights2008 = new FeatureLayer({
+        url: "https://services7.arcgis.com/JDOIHCeAeWHJqDQW/arcgis/rest/services/flights/FeatureServer/0",
+      });
+
+      map.add(flights2008);
+
+      // Flights from American Airlines Flight Engine
+      var userFlights = new FeatureLayer({
+        url: "https://services7.arcgis.com/JDOIHCeAeWHJqDQW/arcgis/rest/services/user_flights/FeatureServer/0",
+
+        // Change the lines
+        renderer: {
+          type: "simple",
+          symbol: {
+            type: "simple-line",
+            color: "green",
+            width: "5px"
+          }
+        },
+      });
+      
+      map.add(userFlights);
+      
+    });
+  </script>
+</head>
+<body>
+  <div id="viewDiv"></div>
+</body>
+</html>
