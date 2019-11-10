@@ -2,105 +2,53 @@
 <html>
 
 <head>
-  <!--Good-->
-  <title>UTD Flight Suggestions, Visualization</title>
-  <link href="https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Raleway:100,500,600,800" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="StylingPage.css">
-  <script src="visualization_scripts.js"></script>
+    <!--Good-->
+    <title>UTD Flight Suggestions, Visualization</title>
+    <link href="https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Raleway:100,500,600,800" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="StylingPage.css">
+    <script src="visualization_scripts.js"></script>
 </head>
 
 <body>
 
-  <!--Good-->
-  <div class="header">
-    <div id="left_logo">
-      <a href="https://www.aa.com/homePage.do" target="_blank"><img
-          src="http://www.catman.global/wp-content/uploads/2018/10/american-airlines-logo.png" width="auto" height="110px"></a>
+    <!--Good-->
+    <div class="header">
+        <div class="logo">
+            <a href="https://www.aa.com/homePage.do" target="_blank"><img src="http://www.catman.global/wp-content/uploads/2018/10/american-airlines-logo.png" width="auto" height="110px"></a>
+        </div>
+        <div class="logo">
+            <p>AND</p>
+        </div>
+        <div class="logo">
+            <a href="https://www.hackutd.co/" target="_blank"><img src="https://www.hackutd.co/img/logo-horizontal-coral.png" width="auto" height="150px" alt="A&M Logo"></a>
+        </div>
     </div>
-    <div id="mid_logo">
-      <p>AND</p>
-    </div>
-    <div id="right_logo">
-      <a href="https://www.hackutd.co/" target="_blank"><img
-          src="https://www.hackutd.co/img/logo-horizontal-coral.png"
-          width="auto" height="150px" alt="A&M Logo"></a>
-    </div>
-  </div>
 
-  <div class="roasting">
-        <p id = "mid_sect">Add past flights ✈  &nbsp &nbsp &nbsp &nbsp  &nbsp Get new recommendations 📃 &nbsp &nbsp &nbsp &nbsp  &nbsp Find new events 🎉</p>
+    <div class="roasting">
+        <p id="mid_sect">Add past flights ✈ &nbsp &nbsp &nbsp &nbsp &nbsp Get new recommendations 📃 &nbsp &nbsp &nbsp &nbsp &nbsp Find new events 🎉</p>
         <form action="/post-feedback" method="post">
-                <label for="departure_date">Flight Departure:</label>
-                <input type="date" id="start" name="trip-start" value="2018-07-22" min="2016-01-01" max="2019-12-31">
-                
-                <label for="arrival_date">Flight Arrival:</label>
-                <input type="date" id="end" name="trip-end" value="2018-07-22" min="2016-01-01" max="2019-12-31">
+            <label for="departure_date">Flight Departure:</label>
+            <input type="date" id="start" name="trip-start" value="2018-07-22" min="2016-01-01" max="2019-12-31">
 
-                <label for="airport_leave">Airport Departure:</label>
-                <input type="text" id="air_depart" name="air_depart" value="LAX">
+            <label for="arrival_date">Flight Arrival:</label>
+            <input type="date" id="end" name="trip-end" value="2018-07-22" min="2016-01-01" max="2019-12-31">
 
-                <label for="airport_arrive">Airport Arrival:</label>
-                <input type="text" id="air_arri" name="air_arri" value="DFW">
+            <label for="airport_leave">Airport Departure:</label>
+            <input type="text" id="air_depart" name="air_depart" value="LAX">
 
-                <!--
-              <label>Name:<input type="text" name="client-name" required></label>
-              <br>
-              <label>Email:<input type="text" name="client-email" required></label>
-              <br>
-              <label>Comment:<br><textarea name="comment"></textarea></label>
-              <br>
-              <label>Name:<input type="text" name="client-name" required></label>
-              <br>
-              <label>Email:<input type="text" name="client-email" required></label>
-              <br>
-              <label>Comment:<br><textarea name="comment"></textarea></label>
-              <br>     -->
+            <label for="airport_arrive">Airport Arrival:</label>
+            <input type="text" id="air_arri" name="air_arri" value="DFW">
 
-               
-
-                <input type="submit" class="submit_button" value="Add more past flights" />
-                <input type="submit" class="submit_button" value="See flights, Get recommendations" />
+            <input type="submit" class="submit_button" value="Add more past flights" />
+            <input type="submit" class="submit_button" value="See flights, Get recommendations" />
         </form>
-        <a href = "/view-feedbacks">View feebacks</a>
-    <br>
-    
-    <p id = "latitude"> Wii✈fly </p>
-    <p id = "longitude"> Wii✈fly </p>
+        <a href="/view-feedbacks">View feebacks</a>
+        <br>
 
-  </div>
-  
-
-
-<section class="lower_footer">
-  <div class="nav_container">
-    <nav>
-      <ul>
-        <h2>
-          <a href="https://www.linkedin.com/in/haley-ferguson-261b21183/" target="_blank">Haley's LinkedIn</a>
-        </h2>
-        
-        <h2>
-          <a href="https://www.linkedin.com/in/jacob-detwiler-9b933a186/" target="_blank">Jacob's LinkedIn</a>
-        </h2>
-        
-        <h2>
-          <a href="https://drive.google.com/file/d/0ByFGFHJrG7RRVkx2S214WkZocHpEaEdfRHBxOC1jNFRMVmhv/view?usp=sharing" target="_blank">Shujah's LinkedIn</a>
-        </h2>
-        
-        <h2>
-          <a href="https://www.linkedin.com/in/antonio-diaz-tamu/" target="_blank">Antonio's LinkedIn</a>
-        </h2>
-        
-      </ul>
-    </nav>
-  </div>
-
-      
-
-</section>
-  
-
-
+        <!-- <p id="latitude"> Wii✈fly </p> -->
+        <!-- <p id="longitude"> Wii✈fly </p> -->
+    </div>
 </body>
+
 </html>
 <!DOCTYPE html>

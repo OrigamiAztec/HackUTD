@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="694dc110-7d49-4da6-88df-67f93a57f634" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ESRIViewPage/StylingPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/ESRIViewPage/StylingPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flight_Input/StylingPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Flight_Input/StylingPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flight_Input/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flight_Input/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flight_Input/visualization_scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Flight_Input/visualization_scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login_Registration/MainHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/Login_Registration/MainHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login_Registration/visualization_scripts.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TQKCiNSMDXH9g5ncumRM5j4kJA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="694dc110-7d49-4da6-88df-67f93a57f634" name="Default Changelist" comment="" />
+      <created>1573386754582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573386754582</updated>
+      <workItem from="1573386759965" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
