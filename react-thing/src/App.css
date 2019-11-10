@@ -2,21 +2,73 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-}
-
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background: #40BB97;
+  height: 10%;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  align-items: normal;
+  justify-content: space-between;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+body {
+  background-color: #214E34;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  padding: 10px 50px;
+}
+
+.viewDiv {
+  background-color: #214E34;
+  padding: 10px;
+  margin: 0%;
+  height: 90vh;
+  width: 100%;
+}
+
+.inputform {
+  background: white;
+  margin: 90px auto;
+  padding: 20px 30px 40px 30px;
+  overflow: auto;
+  width: 75%;
+  align-self: center;
+}
+
+.inputform #mid_sect {
+  margin-left: 16%;
+  font-family: Circular, Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+}
+
+.inputform form {
+  margin-top: 5%;
+}
+
+.inputform label {
+  margin-left: 20%;
+  margin-top: 10%;
+}
+
+.inputform input {
+  border: 2px solid #9c9e93;
+  height: 20px;
+  border-radius: 10px;
+  padding: 1%;
+}
+
+.inputform .submit_button {
+  height: 50px;
+  width: 80%;
+  margin-top: 5%;
+  margin-left: 10%;
+  background: #40BB97;
+}
+
+.inputform .submit_button p {
+  color: blue;
 }
