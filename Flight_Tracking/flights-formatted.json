@@ -1,0 +1,4898 @@
+[
+  {
+    "flightNumber": "7777",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 14m",
+      "hours": 2,
+      "minutes": 14
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "5687",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 5m",
+      "hours": 2,
+      "minutes": 5
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3683",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 8m",
+      "hours": 2,
+      "minutes": 8
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2110",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 11m",
+      "hours": 2,
+      "minutes": 11
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1721",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 9m",
+      "hours": 2,
+      "minutes": 9
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "8433",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 10m",
+      "hours": 2,
+      "minutes": 10
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7625",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 5m",
+      "hours": 2,
+      "minutes": 5
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6785",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 0m",
+      "hours": 2,
+      "minutes": 0
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1292",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 14m",
+      "hours": 2,
+      "minutes": 14
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "9292",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 1m",
+      "hours": 2,
+      "minutes": 1
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1798",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 9m",
+      "hours": 2,
+      "minutes": 9
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1641",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 2m",
+      "hours": 2,
+      "minutes": 2
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4828",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 4m",
+      "hours": 2,
+      "minutes": 4
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9930",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 3m",
+      "hours": 2,
+      "minutes": 3
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6175",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 1m",
+      "hours": 2,
+      "minutes": 1
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1312",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 11m",
+      "hours": 2,
+      "minutes": 11
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9584",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 21m",
+      "hours": 3,
+      "minutes": 21
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3572",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 18m",
+      "hours": 3,
+      "minutes": 18
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0679",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 23m",
+      "hours": 3,
+      "minutes": 23
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "7965",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 15m",
+      "hours": 3,
+      "minutes": 15
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0746",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 9m",
+      "hours": 3,
+      "minutes": 9
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8873",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 6m",
+      "hours": 3,
+      "minutes": 6
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1853",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 42m",
+      "hours": 3,
+      "minutes": 42
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5723",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 48m",
+      "hours": 3,
+      "minutes": 48
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "6475",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 36m",
+      "hours": 3,
+      "minutes": 36
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6142",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 38m",
+      "hours": 3,
+      "minutes": 38
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7917",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 51m",
+      "hours": 3,
+      "minutes": 51
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "0873",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 43m",
+      "hours": 3,
+      "minutes": 43
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0094",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 55m",
+      "hours": 1,
+      "minutes": 55
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2372",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 56m",
+      "hours": 1,
+      "minutes": 56
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2804",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 1m",
+      "hours": 2,
+      "minutes": 1
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9368",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 56m",
+      "hours": 1,
+      "minutes": 56
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7194",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 51m",
+      "hours": 1,
+      "minutes": 51
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9080",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 1m",
+      "hours": 2,
+      "minutes": 1
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "3347",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 59m",
+      "hours": 1,
+      "minutes": 59
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3320",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 2m",
+      "hours": 2,
+      "minutes": 2
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "4194",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 0m",
+      "hours": 2,
+      "minutes": 0
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6167",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 58m",
+      "hours": 1,
+      "minutes": 58
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6129",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 0m",
+      "hours": 2,
+      "minutes": 0
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "6207",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 1m",
+      "hours": 2,
+      "minutes": 1
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "8413",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 53m",
+      "hours": 1,
+      "minutes": 53
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8036",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 24m",
+      "hours": 6,
+      "minutes": 24
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7853",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 20m",
+      "hours": 6,
+      "minutes": 20
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9340",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 34m",
+      "hours": 6,
+      "minutes": 34
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2258",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 18m",
+      "hours": 6,
+      "minutes": 18
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6884",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 44m",
+      "hours": 6,
+      "minutes": 44
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5349",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 53m",
+      "hours": 6,
+      "minutes": 53
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "6668",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 48m",
+      "hours": 6,
+      "minutes": 48
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "8240",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 34m",
+      "hours": 6,
+      "minutes": 34
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "7170",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 38m",
+      "hours": 3,
+      "minutes": 38
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5015",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 44m",
+      "hours": 3,
+      "minutes": 44
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "2068",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 30m",
+      "hours": 3,
+      "minutes": 30
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8892",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 31m",
+      "hours": 3,
+      "minutes": 31
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4486",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 36m",
+      "hours": 3,
+      "minutes": 36
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6796",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 45m",
+      "hours": 3,
+      "minutes": 45
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "3028",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 41m",
+      "hours": 3,
+      "minutes": 41
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "6726",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 41m",
+      "hours": 3,
+      "minutes": 41
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3111",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 59m",
+      "hours": 3,
+      "minutes": 59
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "3634",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 41m",
+      "hours": 3,
+      "minutes": 41
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "5715",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 39m",
+      "hours": 3,
+      "minutes": 39
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6328",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 44m",
+      "hours": 3,
+      "minutes": 44
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7257",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 32m",
+      "hours": 3,
+      "minutes": 32
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6370",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 47m",
+      "hours": 3,
+      "minutes": 47
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0884",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 46m",
+      "hours": 3,
+      "minutes": 46
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8679",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 58m",
+      "hours": 3,
+      "minutes": 58
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "8817",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 49m",
+      "hours": 4,
+      "minutes": 49
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1718",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 24m",
+      "hours": 4,
+      "minutes": 24
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0950",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 36m",
+      "hours": 4,
+      "minutes": 36
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5398",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 37m",
+      "hours": 4,
+      "minutes": 37
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "4396",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 22m",
+      "hours": 4,
+      "minutes": 22
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8333",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "5h 0m",
+      "hours": 5,
+      "minutes": 0
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "7180",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 30m",
+      "hours": 4,
+      "minutes": 30
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0109",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 40m",
+      "hours": 4,
+      "minutes": 40
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1270",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 39m",
+      "hours": 4,
+      "minutes": 39
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8727",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 25m",
+      "hours": 4,
+      "minutes": 25
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8017",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 57m",
+      "hours": 4,
+      "minutes": 57
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1393",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 40m",
+      "hours": 4,
+      "minutes": 40
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0472",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 43m",
+      "hours": 4,
+      "minutes": 43
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1811",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 35m",
+      "hours": 4,
+      "minutes": 35
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8807",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 20m",
+      "hours": 6,
+      "minutes": 20
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0461",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 43m",
+      "hours": 6,
+      "minutes": 43
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6212",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 33m",
+      "hours": 6,
+      "minutes": 33
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "7777",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 26m",
+      "hours": 6,
+      "minutes": 26
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5212",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 31m",
+      "hours": 6,
+      "minutes": 31
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "4467",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 33m",
+      "hours": 6,
+      "minutes": 33
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "6605",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 34m",
+      "hours": 6,
+      "minutes": 34
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1289",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 25m",
+      "hours": 6,
+      "minutes": 25
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4439",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 33m",
+      "hours": 6,
+      "minutes": 33
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0448",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 36m",
+      "hours": 6,
+      "minutes": 36
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4528",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "7h 9m",
+      "hours": 7,
+      "minutes": 9
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "8482",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 24m",
+      "hours": 6,
+      "minutes": 24
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0028",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 37m",
+      "hours": 6,
+      "minutes": 37
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "7967",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 37m",
+      "hours": 6,
+      "minutes": 37
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4732",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 12m",
+      "hours": 6,
+      "minutes": 12
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5692",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 6m",
+      "hours": 3,
+      "minutes": 6
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3729",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 11m",
+      "hours": 3,
+      "minutes": 11
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4530",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 28m",
+      "hours": 3,
+      "minutes": 28
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1788",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 13m",
+      "hours": 3,
+      "minutes": 13
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5886",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 6m",
+      "hours": 3,
+      "minutes": 6
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7054",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 27m",
+      "hours": 3,
+      "minutes": 27
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "4514",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 30m",
+      "hours": 3,
+      "minutes": 30
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "8079",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 8m",
+      "hours": 3,
+      "minutes": 8
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8436",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 27m",
+      "hours": 3,
+      "minutes": 27
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1414",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 26m",
+      "hours": 3,
+      "minutes": 26
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "5649",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 18m",
+      "hours": 3,
+      "minutes": 18
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8665",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 13m",
+      "hours": 3,
+      "minutes": 13
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8708",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 28m",
+      "hours": 3,
+      "minutes": 28
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "0876",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 14m",
+      "hours": 3,
+      "minutes": 14
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4911",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 14m",
+      "hours": 3,
+      "minutes": 14
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1428",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 21m",
+      "hours": 3,
+      "minutes": 21
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5115",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 55m",
+      "hours": 4,
+      "minutes": 55
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1802",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 25m",
+      "hours": 4,
+      "minutes": 25
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5563",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 23m",
+      "hours": 4,
+      "minutes": 23
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6062",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 49m",
+      "hours": 4,
+      "minutes": 49
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "2282",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 33m",
+      "hours": 4,
+      "minutes": 33
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1960",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 22m",
+      "hours": 4,
+      "minutes": 22
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6943",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 37m",
+      "hours": 4,
+      "minutes": 37
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "0068",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 56m",
+      "hours": 4,
+      "minutes": 56
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "6091",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 25m",
+      "hours": 4,
+      "minutes": 25
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2451",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 59m",
+      "hours": 4,
+      "minutes": 59
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "4282",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 45m",
+      "hours": 4,
+      "minutes": 45
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "9473",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 34m",
+      "hours": 4,
+      "minutes": 34
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8899",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 43m",
+      "hours": 4,
+      "minutes": 43
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2535",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "5h 0m",
+      "hours": 5,
+      "minutes": 0
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1811",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 59m",
+      "hours": 4,
+      "minutes": 59
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "2975",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 59m",
+      "hours": 4,
+      "minutes": 59
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "4702",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 1m",
+      "hours": 2,
+      "minutes": 1
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0039",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 55m",
+      "hours": 1,
+      "minutes": 55
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9770",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 1m",
+      "hours": 2,
+      "minutes": 1
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "3239",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 57m",
+      "hours": 1,
+      "minutes": 57
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3632",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 1m",
+      "hours": 2,
+      "minutes": 1
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1413",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 55m",
+      "hours": 1,
+      "minutes": 55
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5611",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 53m",
+      "hours": 1,
+      "minutes": 53
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4094",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 7m",
+      "hours": 2,
+      "minutes": 7
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "4604",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 51m",
+      "hours": 1,
+      "minutes": 51
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8916",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 59m",
+      "hours": 1,
+      "minutes": 59
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "0230",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 9m",
+      "hours": 2,
+      "minutes": 9
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9245",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 2m",
+      "hours": 2,
+      "minutes": 2
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9471",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 3m",
+      "hours": 2,
+      "minutes": 3
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6632",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 4m",
+      "hours": 2,
+      "minutes": 4
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5134",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 11m",
+      "hours": 2,
+      "minutes": 11
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5199",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 4m",
+      "hours": 2,
+      "minutes": 4
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7278",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 3m",
+      "hours": 2,
+      "minutes": 3
+    },
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9943",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 7m",
+      "hours": 2,
+      "minutes": 7
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  }
+]
