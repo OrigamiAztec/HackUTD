@@ -16,14 +16,17 @@ app.post('/post-feedback', function (req, res) {
     dbConn.then(function(db) {
         delete req.body._id; // for safety reasons
         db.db("mydb").collection('FlightData').insertOne(req.body);
+        console.log(req);
     });    
     res.send('Data received:\n' + JSON.stringify(req.body));
+    res.send('Data received:\n' + JSON.stringify(req));
 });
 
 app.get('/view-feedbacks',  function(req, res) {
     dbConn.then(function(db) {
         db.collection('feedbacks').find({}).toArray().then(function(feedbacks) {
             res.status(200).json(feedbacks);
+            console.log(req)
         });
     });
 });
