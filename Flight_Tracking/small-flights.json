@@ -1,0 +1,100 @@
+[
+  {
+    "flightNumber": "7777",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 14m",
+      "hours": 2,
+      "minutes": 14
+    },
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "5687",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 5m",
+      "hours": 2,
+      "minutes": 5
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3683",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 8m",
+      "hours": 2,
+      "minutes": 8
+    },
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
