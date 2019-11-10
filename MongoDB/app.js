@@ -1,19 +1,21 @@
-var express = require('express');
-var path = require('path');
-var bodyParser = require('body-parser');
+const express = require('express');
+const path = require('path');
 var mongodb = require('mongodb');
+var bodyParser = require('body-parser');
 
-var dbConn = mongodb.MongoClient.connect('mongodb://localhost:27017/');
-
-var app = express();
+const app = express();
+app.use(express.static('C:/Users/origa/Documents/GitHub/HackUTD/Flight_Input'));
 
 app.use(bodyParser.urlencoded({ extended: false }));
-app.use(express.static(path.resolve(__dirname, 'public')));
+
+var dbConn = mongodb.MongoClient.connect('mongodb://localhost:27017');
+
+
 
 app.post('/post-feedback', function (req, res) {
     dbConn.then(function(db) {
         delete req.body._id; // for safety reasons
-        db.collection('feedbacks').insertOne(req.body);
+        db.collection('FlightData').insertOne(req.body);
     });    
     res.send('Data received:\n' + JSON.stringify(req.body));
 });
@@ -26,4 +28,4 @@ app.get('/view-feedbacks',  function(req, res) {
     });
 });
 
-app.listen(process.env.PORT || 3000, process.env.IP || '0.0.0.0');
+app.listen(3000, ()=>console.log('listening at 3000'));
