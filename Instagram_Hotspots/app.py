@@ -1,6 +1,5 @@
 from flask import Flask
 from flask_restful import Api, Resource
-import instagram_scraper
 
 app = Flask(__name__)
 api = Api(app)
