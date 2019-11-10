@@ -1,16 +1,25 @@
 {
-  "name": "MongoDB",
+  "name": "mongodbinput",
   "version": "1.0.0",
-  "description": "",
-  "main": "CollectionCreation.js",
+  "description": "Input from flight data",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Antonio Diaz",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrigamiAztec/HackUTD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OrigamiAztec/HackUTD/issues"
+  },
+  "homepage": "https://github.com/OrigamiAztec/HackUTD#readme"
 }
