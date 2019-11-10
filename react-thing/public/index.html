@@ -25,7 +25,79 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>React App</title>
+
+    <link rel="stylesheet" href="https://js.arcgis.com/4.13/esri/css/main.css">
+    <script src="https://js.arcgis.com/4.13/"></script>
+
+    <script>
+      console.log('test');
+      require([
+        "esri/Map",
+        "esri/views/MapView",
+        "esri/layers/CSVLayer",
+        "esri/layers/FeatureLayer",
+      ], function(Map, MapView, CSVLayer, FeatureLayer) {
+        var map = new Map({
+          basemap: "hybrid"
+        });
+        var view = new MapView({
+          container: "viewDiv",
+          map: map,
+          center: [-98.80500,34.02700],
+          zoom: 5
+        });
+
+        // 2008 flights
+        var flights2008 = new FeatureLayer({
+          url: "https://services7.arcgis.com/JDOIHCeAeWHJqDQW/arcgis/rest/services/flights/FeatureServer/0",
+        });
+        map.add(flights2008);
+        // Flights from American Airlines Flight Engine
+        var userFlights = new FeatureLayer({
+          url: "https://services7.arcgis.com/JDOIHCeAeWHJqDQW/arcgis/rest/services/user_flights/FeatureServer/0",
+          // Change the lines
+          renderer: {
+            type: "simple",
+            symbol: {
+              type: "simple-line",
+              color: "green",
+              width: "5px"
+            }
+          },
+        });
+
+        map.add(userFlights);
+        const heatMapRenderer = {
+          type: "heatmap",
+          colorStops: [
+            { color: "rgba(63, 40, 102, 0)", ratio: 0 },
+            { color: "#472b77", ratio: 0.083 },
+            { color: "#4e2d87", ratio: 0.166 },
+            { color: "#563098", ratio: 0.249 },
+            { color: "#5d32a8", ratio: 0.332 },
+            { color: "#6735be", ratio: 0.415 },
+            { color: "#7139d4", ratio: 0.498 },
+            { color: "#7b3ce9", ratio: 0.581 },
+            { color: "#853fff", ratio: 0.664 },
+            { color: "#a46fbf", ratio: 0.747 },
+            { color: "#c29f80", ratio: 0.83 },
+            { color: "#e0cf40", ratio: 0.913 },
+            { color: "#ffff00", ratio: 1 }
+          ],
+          maxPixelIntensity: 25,
+          minPixelIntensity: 0
+        };
+        const heatMapLayer = new CSVLayer({
+          url: "https://loadingpw.maps.arcgis.com/sharing/rest/content/items/b84f91ef82d04d5d82e05be1c291eda5/data",
+          title: "Flights in the last year",
+          renderer: heatMapRenderer
+        });
+        map.add(heatMapLayer, 0);
+
+      });
+    </script>
   </head>
+
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
@@ -39,5 +111,6 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+<!--    <div id="viewDiv"/>-->
   </body>
 </html>

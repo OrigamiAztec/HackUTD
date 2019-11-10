@@ -9,9 +9,10 @@ class App extends Component{
     render = () => (
         <div>
             <Header/>
-            <Login/>
+            {/*<Login/>*/}
             {/*<Esri/>*/}
             {/*<FlightInput/>*/}
+            <div className="mayp" id="viewDiv"/>
         </div>
     );
 }

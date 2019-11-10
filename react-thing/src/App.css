@@ -18,6 +18,10 @@ body {
   padding: 0;
 }
 
+p {
+  text-align: center;
+}
+
 .logo {
   padding: 10px 50px;
 }
@@ -40,7 +44,7 @@ body {
 }
 
 .inputform #mid_sect {
-  margin-left: 16%;
+  align-content: center;
   font-family: Circular, Georgia, 'Times New Roman', Times, serif;
   font-weight: 700;
 }
@@ -71,4 +75,17 @@ body {
 
 .inputform .submit_button p {
   color: blue;
+}
+
+.flexcenter {
+  text-align: center;
+  /*display: flex;*/
+  /*align-items: center;*/
+  /*justify-content: center;*/
+}
+
+.mayp {
+  align-content: center;
+  height: 80vh;
+  width: 100vw;
 }
