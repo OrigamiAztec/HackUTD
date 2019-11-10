@@ -29,7 +29,7 @@
 
   <div class="roasting">
         <p id = "mid_sect">Add past flights ✈  &nbsp &nbsp &nbsp &nbsp  &nbsp Get new recommendations 📃 &nbsp &nbsp &nbsp &nbsp  &nbsp Find new events 🎉</p>
-        <form action="" method="post">
+        <form action="/post-feedback" method="post">
                 <label for="departure_date">Flight Departure:</label>
                 <input type="date" id="start" name="trip-start" value="2018-07-22" min="2016-01-01" max="2019-12-31">
                 
@@ -48,6 +48,7 @@
                 <input type="submit" class="submit_button" value="Add more past flights" />
                 <input type="submit" class="submit_button" value="See flights, Get recommendations" />
         </form>
+        <a href = "/view-feedbacks">View feebacks</a>
     <br>
     
   </div>
