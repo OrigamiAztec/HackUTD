@@ -1,0 +1,101 @@
+{
+  "description": "A New Flow",
+  "states": [
+    {
+      "name": "Trigger",
+      "type": "InitialState",
+      "properties": {
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "flow_url": "https://webhooks.twilio.com/v1/Accounts/AC43f511acbec11fbc2b60ed10420fbedf/Flows/FW6ee7fb89a4b877b0ad8fb759626713de"
+      },
+      "transitions": [
+        {
+          "event": "incomingMessage",
+          "conditions": [],
+          "next": null,
+          "uuid": "8e8392b1-d7e5-4061-805f-1dd2804ecf3a"
+        },
+        {
+          "event": "incomingCall",
+          "conditions": [],
+          "next": null,
+          "uuid": "7a5dbd9e-f52e-4e06-a272-167a4efc8bd7"
+        },
+        {
+          "event": "incomingRequest",
+          "conditions": [],
+          "next": "FF0b662a7a28130bd6ca12e2626ad91c65",
+          "uuid": "7bf66724-6809-458e-b745-2a13644ebb7f"
+        }
+      ],
+      "sid": "FF2db2a9880f6e03242cd3e94154227fdc"
+    },
+    {
+      "sid": "FF0b662a7a28130bd6ca12e2626ad91c65",
+      "name": "send_flight_reminder",
+      "type": "Message",
+      "properties": {
+        "from": "{{flow.channel.address}}",
+        "to": "{{contact.channel.address}}",
+        "channel": "{{trigger.message.ChannelSid}}",
+        "service": "{{trigger.message.InstanceSid}}",
+        "offset": {
+          "x": 250,
+          "y": 150
+        },
+        "body": "Your Flight Boards in 3 Hours!"
+      },
+      "transitions": [
+        {
+          "widgetId": "FF0b662a7a28130bd6ca12e2626ad91c65",
+          "uuid": "2a8748a0-1a50-4752-9d3d-01077bc96a6f",
+          "event": "sent",
+          "conditions": [],
+          "next": "FFf9b26f64fe48d0e267bc842d597113f5"
+        },
+        {
+          "widgetId": "FF0b662a7a28130bd6ca12e2626ad91c65",
+          "uuid": "eb00ef78-bf4b-4fe0-a557-8d57b54492b0",
+          "event": "failed",
+          "conditions": [],
+          "next": null
+        }
+      ]
+    },
+    {
+      "sid": "FFf9b26f64fe48d0e267bc842d597113f5",
+      "name": "send_ty",
+      "type": "Message",
+      "properties": {
+        "from": "{{flow.channel.address}}",
+        "to": "{{contact.channel.address}}",
+        "channel": "{{trigger.message.ChannelSid}}",
+        "service": "{{trigger.message.InstanceSid}}",
+        "offset": {
+          "x": 240,
+          "y": 410
+        },
+        "body": "Thank you for flying with American Airlines"
+      },
+      "transitions": [
+        {
+          "widgetId": "FFf9b26f64fe48d0e267bc842d597113f5",
+          "uuid": "a4d3411e-261c-439e-92eb-132ec05efbe3",
+          "event": "sent",
+          "conditions": [],
+          "next": null
+        },
+        {
+          "widgetId": "FFf9b26f64fe48d0e267bc842d597113f5",
+          "uuid": "2986b47d-2536-4f22-86d6-1105ae50d636",
+          "event": "failed",
+          "conditions": [],
+          "next": null
+        }
+      ]
+    }
+  ]
+}
