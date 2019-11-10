@@ -78,6 +78,24 @@
         });
 
         map.add(userFlights);
+
+      // Flights the user may be interested in based on what's popular among Americans
+      var suggestedFlights = new FeatureLayer({
+        url: "https://services7.arcgis.com/JDOIHCeAeWHJqDQW/arcgis/rest/services/suggested_flights/FeatureServer/0",
+
+        // Change the lines
+        renderer: {
+          type: "simple",
+          symbol: {
+            type: "simple-line",
+            color: "green",
+            width: "10px"
+          }
+        },
+      });
+      
+      map.add(suggestedFlights);
+
         const heatMapRenderer = {
           type: "heatmap",
           colorStops: [
