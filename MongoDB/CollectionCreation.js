@@ -1,5 +1,13 @@
 var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb://localhost:27017/";
+//var url = "mongodb://localhost:27017/";
+
+const url = "mongodb+srv://MyMongoDBUser:PASS@cluster0-k5ros.mongodb.net/test?retryWrites=true&w=majority";
+const client = new MongoClient(url, { useNewUrlParser: true });
+client.connect(err => {
+  const collection = client.db("test").collection("devices");
+  // perform actions on the collection object
+  client.close();
+});
 
 MongoClient.connect(url, function(err, db) {
   if (err) throw err;
