@@ -35,9 +35,9 @@ app.post('/post-feedback', function (req, res) {
 
 app.get('/view-feedbacks',  function(req, res) {
     dbConn.then(function(db) {
-        db.collection('feedbacks').find({}).toArray().then(function(feedbacks) {
+        db.db("mydb").collection('FlightData').find({}).toArray().then(function(feedbacks) {
             res.status(200).json(feedbacks);
-            console.log(req)
+            console.log(req);
         });
     });
 });
